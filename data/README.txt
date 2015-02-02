@@ -1,0 +1,1 @@
+need to run untitled.m to generate cifar10 data repository
